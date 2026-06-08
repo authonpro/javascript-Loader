@@ -1,0 +1,20 @@
+{
+  "name": "authon-sdk",
+  "version": "1.0.0",
+  "description": "Official Authon SDK for Node.js — Software Licensing & Authentication",
+  "main": "authon.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": ["authon", "licensing", "authentication", "hwid", "sdk"],
+  "author": "Authon <support@authon.pro>",
+  "license": "MIT",
+  "homepage": "https://authon.pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/authonpro/sdk-javascript"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
