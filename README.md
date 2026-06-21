@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://authon.pro"><img src="https://img.shields.io/badge/Website-authon.pro-7c3aed?style=flat-square" alt="Website" /></a>
-  <a href="https://discord.gg/jMZCTKPsmE"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/MTY79JDFm6"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://authon.pro/status"><img src="https://img.shields.io/badge/Status-Check-22c55e?style=flat-square" alt="Status" /></a>
   <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
@@ -173,7 +173,7 @@ javascript-Loader/
 |----------|-----|
 | 🌐 Website | https://authon.pro |
 | 📖 Documentation | https://authon.pro/docs |
-| 💬 Discord | https://discord.gg/jMZCTKPsmE |
+| 💬 Discord | https://discord.gg/MTY79JDFm6 |
 | 📊 Status | https://authon.pro/status |
 | 🔗 API Health | https://api.authon.pro/health |
 | 🐙 GitHub | https://github.com/authonpro |
